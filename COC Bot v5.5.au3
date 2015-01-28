@@ -1,4 +1,5 @@
 #RequireAdmin
+
 $sBotTitle = "COC Bot v5.5"
 
 If _Singleton($sBotTitle, 1) = 0 Then
